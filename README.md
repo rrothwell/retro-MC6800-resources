@@ -14,17 +14,17 @@ Commonly used software will also be a feature.
 
 ## Software
 
-### Lilbug
+### Monitors
 * [Lilbug - tgtakaoka](https://github.com/tgtakaoka/LILbug)
-
-### MC3 Monitor
-
 * [MC3 Monitor](http://www.waveguide.se/?article=mc3-monitor-14)
 
-### CMOC
+### C Compilers
 * [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html)
+* [SmallC68](https://github.com/linuxha/SmallC68)
 
-### [SmallC68](https://github.com/linuxha/SmallC68)
+### Forth
+
+### BASIC
 
 ### Assemblers
 
