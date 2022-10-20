@@ -26,6 +26,10 @@ Commonly used software will also be a feature.
 
 ### [SmallC68](https://github.com/linuxha/SmallC68)
 
+### Assemblers
+
+* [Choosing the wrong MC6800 assembler](https://tobiasvl.github.io/blog/choosing-the-wrong-m6800-assembler/)
+
 
 ## Hardware
 
