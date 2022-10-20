@@ -29,6 +29,7 @@ Commonly used software will also be a feature.
 ### Assemblers
 
 * [Choosing the wrong MC6800 assembler](https://tobiasvl.github.io/blog/choosing-the-wrong-m6800-assembler/)
+* [MC3 crosss assembler](http://www.waveguide.se/?article=68xx-cross-assembler)
 
 
 ## Hardware
