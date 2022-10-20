@@ -8,7 +8,7 @@ A number of MC6800 resources will be collected here to support projects using IC
 * MC6802.
 * MC68701.
 * HD6303.
-* MC6809
+* MC6809.
 
 Commonly used software will also be a feature.
 
@@ -16,7 +16,11 @@ Commonly used software will also be a feature.
 
 ### Lilbug
 * [Lilbug - tgtakaoka](https://github.com/tgtakaoka/LILbug)
+
+### CMOC
 * [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html)
+
+### 
 
 
 ## Hardware
