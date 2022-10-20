@@ -17,6 +17,10 @@ Commonly used software will also be a feature.
 ### Lilbug
 * [Lilbug - tgtakaoka](https://github.com/tgtakaoka/LILbug)
 
+### MC3 Monitor
+
+* [MC3 Monitor](http://www.waveguide.se/?article=mc3-monitor-14)
+
 ### CMOC
 * [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html)
 
