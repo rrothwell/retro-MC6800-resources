@@ -20,7 +20,7 @@ Commonly used software will also be a feature.
 ### CMOC
 * [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html)
 
-### 
+### [SmallC68](https://github.com/linuxha/SmallC68)
 
 
 ## Hardware
